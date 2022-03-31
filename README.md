@@ -82,6 +82,7 @@ Kumpulan module materi yang mudah mudahan dapat membantu
 - [csstrick](https://css-tricks.com/)
 - [prograte](https://progate.com/)
 - [skillshare](https://www.skillshare.com/)
+- [fireship.io](https://fireship.io/)
 
 ## Youtube Channel
 
@@ -98,3 +99,5 @@ Kumpulan module materi yang mudah mudahan dapat membantu
 - [OnlineTutorial](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Fireship.io](https://www.youtube.com/c/Fireship)
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
